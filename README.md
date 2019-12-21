@@ -20,7 +20,7 @@ This project is being developed under the GPLv2 LICENSE.
 
 Install golang from the repositories for your operating system (apt, yum, homebrew, etc.) or from the golang website. https://golang.org/dl/
 
-Then build the go components of medred
+Then build the go components of medrec
 ```
 $ go build
 ```
